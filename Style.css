@@ -1,0 +1,26 @@
+body{
+    background-image: url("mintgreen.jpg");
+    text-align: center;
+    background-size: cover;
+    
+}
+h1 {
+    color:  rgb(36, 150, 141);
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #88d8bd;
+    width: 150px;
+    background: rgb(36, 150, 141);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
